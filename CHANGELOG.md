@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.94.1](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.94.0...v0.94.1) (2026-10-20)
+
+
+### Bug Fixes
+
+* publish turns that Claude Code starts after end_turn as an async task in v1 ([#1390](https://github.com/agentclientprotocol/claude-agent-acp/issues/1390)) ([a1d0eee](https://github.com/agentclientprotocol/claude-agent-acp/commit/a1d0eeeaad3d67a0765f4b89e3d81c1af6ca0dbb))
+
 ## [0.94.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.93.0...v0.94.0) (2026-10-19)
 
 
